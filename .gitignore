@@ -1,0 +1,28 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file
+local.properties
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Android Studio
+.DS_Store
+/captures
+.externalNativeBuild
+.cxx
+
+# Kotlin/Java
+*.class
+*.jar
+*.aar
+*.jmod
+
+# Misc
+*.log
+*.ktx

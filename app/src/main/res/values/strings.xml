@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jarvis Voice Assistant</string>
+    <string name="listen_button">Tinglash</string>
+    <string name="status">Holati</string>
+    <string name="response">Javob</string>
+</resources>
